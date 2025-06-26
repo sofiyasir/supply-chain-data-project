@@ -13,8 +13,6 @@ Supplier Delivery Time & Cost Efficiency
 Cost Trend Analysis over Time
 Stable Inventory Trends with Seasonal Variations
 ## Tools Used:
-Excel – for initial data cleaning and preparation
-SQL – for data filtering and analysis (e.g., identifying cost trends or delivery issues)
-Tableau – for interactive data visualization and dashboard building
+Excel – for initial data cleaning and preparation,SQL – for data filtering and analysis (e.g., identifying cost trends or delivery issues),Tableau – for interactive data visualization and dashboard building
 
 
